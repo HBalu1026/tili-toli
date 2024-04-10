@@ -1,0 +1,15 @@
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\bin\Debug\tilitoli.exe.config
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\bin\Debug\tilitoli.exe
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\bin\Debug\tilitoli.pdb
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\tilitoli.csproj.AssemblyReference.cache
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\MainWindow.g.cs
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\App.g.cs
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\tilitoli_MarkupCompile.cache
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\tilitoli_MarkupCompile.lref
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\MainWindow.baml
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\tilitoli.g.resources
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\tilitoli.Properties.Resources.resources
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\tilitoli.csproj.GenerateResource.cache
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\tilitoli.csproj.CoreCompileInputs.cache
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\tilitoli.exe
+C:\Users\hernadi.balazs\source\repos\tilitoli\tilitoli\obj\Debug\tilitoli.pdb
